@@ -33,6 +33,13 @@ html body {
 	padding: 20px;
 }
 
+.footer-relativo {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
 .btn-animacao {
 	animation-name: animacao-botao;
 	animation-duration: 3s;
